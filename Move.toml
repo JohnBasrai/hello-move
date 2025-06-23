@@ -1,0 +1,7 @@
+[package]
+name = "HelloWorld"
+version = "0.0.1"
+authors = ["John Basrai"]
+
+[addresses]
+HelloWorld = "0x123"
