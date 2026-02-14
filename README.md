@@ -38,15 +38,6 @@ You should see output from the `say_hello` function, including:
 [debug] Hello, World!
 ```
 
-## 🤖 GitHub Actions CI
-
-This repo includes a CI workflow that:
-- Installs the Move CLI
-- Builds the package
-- Runs unit tests on every push and pull request to `main`
-
-See `.github/workflows/ci.yml`.
-
 ## 🧪 What's Inside
 
 - `say_hello`: A public function that prints "Hello, World!"
